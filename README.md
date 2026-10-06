@@ -28,12 +28,12 @@ The data is analyzed using Pandas and visualized using Matplotlib.
 
 The notebook includes:
 
-* 📊 **Bar Charts** — Comparing student and subject performance
-* 📈 **Line Charts** — Analyzing trends and comparisons
-* 📉 **Histograms** — Understanding data distributions
-* 🔵 **Scatter Plots** — Exploring relationships between variables
-* 🔲 **Subplots** — Displaying multiple visualizations together
-* 🎨 **Heatmap-Style Visualization** — Visualizing relationships between variables using `imshow()`
+* 📊 **Bar Charts** - Comparing student and subject performance
+* 📈 **Line Charts** - Analyzing trends and comparisons
+* 📉 **Histograms** - Understanding data distributions
+* 🔵 **Scatter Plots** - Exploring relationships between variables
+* 🔲 **Subplots** - Displaying multiple visualizations together
+* 🎨 **Heatmap-Style Visualization** - Visualizing relationships between variables using `imshow()`
 
 ## 📂 Project Structure
 
